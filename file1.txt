@@ -1,2 +1,4 @@
 New file
 1st line for master branch
+Oh this is for feature1
+First commit of feature1
