@@ -1,2 +1,3 @@
 New file
 Oh this is for feature1
+New line for feature1
